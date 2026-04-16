@@ -1,0 +1,9 @@
+{
+  "name": "servidor-basico",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Servidor estático mínimo con Node",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
